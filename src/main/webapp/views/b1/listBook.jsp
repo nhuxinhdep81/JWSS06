@@ -128,7 +128,7 @@
     </c:forEach>
 </table>
 <br>
-<a href="views/b1/formAdd.jsp">Sua sach</a>
+<a href="views/b1/formAdd.jsp">Them sach</a>
 </body>
 </html>
 

@@ -26,7 +26,7 @@
     <label for="quantity">So luong:</label>
     <input type="number" name="quantity" id="quantity" value="${book.quantity}">
 
-    <button type="submit">Them sach</button>
+    <button type="submit">Sua sach</button>
 </form>
 </body>
 </html>
